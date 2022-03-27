@@ -1,0 +1,7 @@
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\obj\Debug\list_in_cs.csproj.AssemblyReference.cache
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\obj\Debug\list_in_cs.csproj.CoreCompileInputs.cache
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\bin\Debug\list_in_cs.exe.config
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\bin\Debug\list_in_cs.exe
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\bin\Debug\list_in_cs.pdb
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\obj\Debug\list_in_cs.exe
+D:\semester 2\OOP (C#)\list_in_cs\list_in_cs\obj\Debug\list_in_cs.pdb

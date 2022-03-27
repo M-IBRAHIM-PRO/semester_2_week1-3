@@ -1,0 +1,7 @@
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\bin\Debug\week_2_lab_2_task_3(SELF ASSESMENT).exe.config
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\bin\Debug\week_2_lab_2_task_3(SELF ASSESMENT).exe
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\bin\Debug\week_2_lab_2_task_3(SELF ASSESMENT).pdb
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\obj\Debug\week_2_lab_2_task_3(SELF ASSESMENT).csproj.AssemblyReference.cache
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\obj\Debug\week_2_lab_2_task_3(SELF ASSESMENT).csproj.CoreCompileInputs.cache
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\obj\Debug\week_2_lab_2_task_3(SELF ASSESMENT).exe
+D:\semester 2\week_2_lab_2_task_3(SELF ASSESMENT)\week_2_lab_2_task_3(SELF ASSESMENT)\obj\Debug\week_2_lab_2_task_3(SELF ASSESMENT).pdb

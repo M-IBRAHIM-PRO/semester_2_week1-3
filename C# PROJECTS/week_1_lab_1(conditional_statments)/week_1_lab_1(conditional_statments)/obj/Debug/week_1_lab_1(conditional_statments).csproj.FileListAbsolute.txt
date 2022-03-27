@@ -1,0 +1,8 @@
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\bin\Debug\week_1_lab_1(conditional_statments).exe.config
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\bin\Debug\week_1_lab_1(conditional_statments).exe
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\bin\Debug\week_1_lab_1(conditional_statments).pdb
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\obj\Debug\week_1_lab_1(conditional_statments).csproj.AssemblyReference.cache
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\obj\Debug\week_1_lab_1(conditional_statments).csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\obj\Debug\week_1_lab_1(conditional_statments).csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\obj\Debug\week_1_lab_1(conditional_statments).exe
+C:\C# PROJECTS\week_1_lab_1(conditional_statments)\week_1_lab_1(conditional_statments)\obj\Debug\week_1_lab_1(conditional_statments).pdb

@@ -1,0 +1,7 @@
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\bin\Debug\signIn_signUp_Classes.exe.config
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\bin\Debug\signIn_signUp_Classes.exe
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\bin\Debug\signIn_signUp_Classes.pdb
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\obj\Debug\signIn_signUp_Classes.csproj.AssemblyReference.cache
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\obj\Debug\signIn_signUp_Classes.csproj.CoreCompileInputs.cache
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\obj\Debug\signIn_signUp_Classes.exe
+D:\OOP (C#)\signIn_signUp_Classes\signIn_signUp_Classes\obj\Debug\signIn_signUp_Classes.pdb

@@ -1,0 +1,7 @@
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\bin\Debug\classes_objects_concept.exe.config
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\bin\Debug\classes_objects_concept.exe
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\bin\Debug\classes_objects_concept.pdb
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\obj\Debug\classes_objects_concept.csproj.AssemblyReference.cache
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\obj\Debug\classes_objects_concept.csproj.CoreCompileInputs.cache
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\obj\Debug\classes_objects_concept.exe
+D:\OOP (C#)\classes_objects_concept\classes_objects_concept\obj\Debug\classes_objects_concept.pdb

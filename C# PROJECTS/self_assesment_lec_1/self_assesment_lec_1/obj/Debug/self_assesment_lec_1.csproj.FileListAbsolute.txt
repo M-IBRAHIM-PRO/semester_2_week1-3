@@ -1,0 +1,8 @@
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\bin\Debug\self_assesment_lec_1.exe.config
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\bin\Debug\self_assesment_lec_1.exe
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\bin\Debug\self_assesment_lec_1.pdb
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\obj\Debug\self_assesment_lec_1.csproj.AssemblyReference.cache
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\obj\Debug\self_assesment_lec_1.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\obj\Debug\self_assesment_lec_1.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\obj\Debug\self_assesment_lec_1.exe
+C:\C# PROJECTS\self_assesment_lec_1\self_assesment_lec_1\obj\Debug\self_assesment_lec_1.pdb

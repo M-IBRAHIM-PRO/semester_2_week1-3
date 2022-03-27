@@ -1,0 +1,8 @@
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\bin\Debug\pratice_2_week_1_lec_2.exe.config
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\bin\Debug\pratice_2_week_1_lec_2.exe
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\bin\Debug\pratice_2_week_1_lec_2.pdb
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\obj\Debug\pratice_2_week_1_lec_2.csproj.AssemblyReference.cache
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\obj\Debug\pratice_2_week_1_lec_2.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\obj\Debug\pratice_2_week_1_lec_2.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\obj\Debug\pratice_2_week_1_lec_2.exe
+C:\C# PROJECTS\pratice_2_week_1_lec_2\pratice_2_week_1_lec_2\obj\Debug\pratice_2_week_1_lec_2.pdb

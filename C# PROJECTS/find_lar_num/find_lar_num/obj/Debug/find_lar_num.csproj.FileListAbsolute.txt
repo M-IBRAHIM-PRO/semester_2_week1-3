@@ -1,0 +1,8 @@
+C:\C# PROJECTS\find_lar_num\find_lar_num\bin\Debug\find_lar_num.exe.config
+C:\C# PROJECTS\find_lar_num\find_lar_num\bin\Debug\find_lar_num.exe
+C:\C# PROJECTS\find_lar_num\find_lar_num\bin\Debug\find_lar_num.pdb
+C:\C# PROJECTS\find_lar_num\find_lar_num\obj\Debug\find_lar_num.csproj.AssemblyReference.cache
+C:\C# PROJECTS\find_lar_num\find_lar_num\obj\Debug\find_lar_num.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\find_lar_num\find_lar_num\obj\Debug\find_lar_num.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\find_lar_num\find_lar_num\obj\Debug\find_lar_num.exe
+C:\C# PROJECTS\find_lar_num\find_lar_num\obj\Debug\find_lar_num.pdb

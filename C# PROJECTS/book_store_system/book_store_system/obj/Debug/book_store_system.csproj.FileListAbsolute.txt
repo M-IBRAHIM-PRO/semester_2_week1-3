@@ -1,0 +1,8 @@
+C:\C# PROJECTS\book_store_system\book_store_system\obj\Debug\book_store_system.csproj.AssemblyReference.cache
+C:\C# PROJECTS\book_store_system\book_store_system\obj\Debug\book_store_system.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\book_store_system\book_store_system\obj\Debug\book_store_system.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\book_store_system\book_store_system\bin\Debug\book_store_system.exe.config
+C:\C# PROJECTS\book_store_system\book_store_system\bin\Debug\book_store_system.exe
+C:\C# PROJECTS\book_store_system\book_store_system\bin\Debug\book_store_system.pdb
+C:\C# PROJECTS\book_store_system\book_store_system\obj\Debug\book_store_system.exe
+C:\C# PROJECTS\book_store_system\book_store_system\obj\Debug\book_store_system.pdb

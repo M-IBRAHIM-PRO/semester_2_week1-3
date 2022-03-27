@@ -1,0 +1,11 @@
+C:\C# PROJECTS\project_game_2\project_game_2\bin\Debug\project_game_2.exe.config
+C:\C# PROJECTS\project_game_2\project_game_2\bin\Debug\project_game_2.exe
+C:\C# PROJECTS\project_game_2\project_game_2\bin\Debug\project_game_2.pdb
+C:\C# PROJECTS\project_game_2\project_game_2\bin\Debug\EZInput.dll
+C:\C# PROJECTS\project_game_2\project_game_2\bin\Debug\EZInput.xml
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.csproj.AssemblyReference.cache
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.csproj.CopyComplete
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.exe
+C:\C# PROJECTS\project_game_2\project_game_2\obj\Debug\project_game_2.pdb

@@ -1,0 +1,14 @@
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.exe
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.deps.json
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.runtimeconfig.json
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.runtimeconfig.dev.json
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.dll
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\bin\Debug\netcoreapp3.1\week_2_lab_2_task_1.pdb
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.csproj.AssemblyReference.cache
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.AssemblyInfoInputs.cache
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.AssemblyInfo.cs
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.csproj.CoreCompileInputs.cache
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.dll
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.pdb
+D:\semester 2\week_2_lab_2_task_1\week_2_lab_2_task_1\obj\Debug\netcoreapp3.1\week_2_lab_2_task_1.genruntimeconfig.cache

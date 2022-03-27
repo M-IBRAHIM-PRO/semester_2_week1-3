@@ -1,0 +1,12 @@
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\bin\Debug\signIn_signUp.exe.config
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\bin\Debug\signIn_signUp.exe
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\bin\Debug\signIn_signUp.pdb
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.csproj.AssemblyReference.cache
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.exe
+C:\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.pdb
+D:\semester 2\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.csproj.AssemblyReference.cache
+D:\semester 2\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.csproj.CoreCompileInputs.cache
+D:\semester 2\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.exe
+D:\semester 2\C# PROJECTS\signIn_signUp\signIn_signUp\obj\Debug\signIn_signUp.pdb

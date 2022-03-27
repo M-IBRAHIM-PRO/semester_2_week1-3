@@ -1,0 +1,3 @@
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Release\book_store_management_system.csproj.AssemblyReference.cache
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Release\book_store_management_system.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Release\book_store_management_system.csproj.CoreCompileInputs.cache

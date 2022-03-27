@@ -1,0 +1,8 @@
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\bin\Debug\week_1_lab_1(basic_operation).exe.config
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\bin\Debug\week_1_lab_1(basic_operation).exe
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\bin\Debug\week_1_lab_1(basic_operation).pdb
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\obj\Debug\week_1_lab_1(basic_operation).csproj.AssemblyReference.cache
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\obj\Debug\week_1_lab_1(basic_operation).csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\obj\Debug\week_1_lab_1(basic_operation).csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\obj\Debug\week_1_lab_1(basic_operation).exe
+C:\C# PROJECTS\week_1_lab_1(basic_operation)\week_1_lab_1(basic_operation)\obj\Debug\week_1_lab_1(basic_operation).pdb

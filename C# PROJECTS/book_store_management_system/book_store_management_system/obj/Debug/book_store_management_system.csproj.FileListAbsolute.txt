@@ -1,0 +1,12 @@
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\bin\Debug\book_store_management_system.exe.config
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\bin\Debug\book_store_management_system.exe
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\bin\Debug\book_store_management_system.pdb
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.csproj.AssemblyReference.cache
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.exe
+C:\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.pdb
+D:\semester 2\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.csproj.AssemblyReference.cache
+D:\semester 2\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.csproj.CoreCompileInputs.cache
+D:\semester 2\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.exe
+D:\semester 2\C# PROJECTS\book_store_management_system\book_store_management_system\obj\Debug\book_store_management_system.pdb

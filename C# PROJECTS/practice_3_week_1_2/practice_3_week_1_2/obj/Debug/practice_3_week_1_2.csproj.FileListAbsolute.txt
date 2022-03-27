@@ -1,0 +1,8 @@
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\bin\Debug\practice_3_week_1_2.exe.config
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\bin\Debug\practice_3_week_1_2.exe
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\bin\Debug\practice_3_week_1_2.pdb
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\obj\Debug\practice_3_week_1_2.csproj.AssemblyReference.cache
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\obj\Debug\practice_3_week_1_2.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\obj\Debug\practice_3_week_1_2.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\obj\Debug\practice_3_week_1_2.exe
+C:\C# PROJECTS\practice_3_week_1_2\practice_3_week_1_2\obj\Debug\practice_3_week_1_2.pdb

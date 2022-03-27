@@ -1,0 +1,8 @@
+C:\C# PROJECTS\input_output_practice\input_output_practice\bin\Debug\input_output_practice.exe.config
+C:\C# PROJECTS\input_output_practice\input_output_practice\bin\Debug\input_output_practice.exe
+C:\C# PROJECTS\input_output_practice\input_output_practice\bin\Debug\input_output_practice.pdb
+C:\C# PROJECTS\input_output_practice\input_output_practice\obj\Debug\input_output_practice.csproj.AssemblyReference.cache
+C:\C# PROJECTS\input_output_practice\input_output_practice\obj\Debug\input_output_practice.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\input_output_practice\input_output_practice\obj\Debug\input_output_practice.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\input_output_practice\input_output_practice\obj\Debug\input_output_practice.exe
+C:\C# PROJECTS\input_output_practice\input_output_practice\obj\Debug\input_output_practice.pdb

@@ -1,0 +1,7 @@
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\bin\Debug\week_2_lab_2_challange-1.exe.config
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\bin\Debug\week_2_lab_2_challange-1.exe
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\bin\Debug\week_2_lab_2_challange-1.pdb
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\obj\Debug\week_2_lab_2_challange-1.csproj.AssemblyReference.cache
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\obj\Debug\week_2_lab_2_challange-1.csproj.CoreCompileInputs.cache
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\obj\Debug\week_2_lab_2_challange-1.exe
+D:\semester 2\week_2_lab_2_challange-1\week_2_lab_2_challange-1\obj\Debug\week_2_lab_2_challange-1.pdb

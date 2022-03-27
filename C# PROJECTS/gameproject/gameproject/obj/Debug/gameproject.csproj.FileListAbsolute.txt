@@ -1,0 +1,11 @@
+C:\C# PROJECTS\gameproject\gameproject\bin\Debug\gameproject.exe.config
+C:\C# PROJECTS\gameproject\gameproject\bin\Debug\gameproject.exe
+C:\C# PROJECTS\gameproject\gameproject\bin\Debug\gameproject.pdb
+C:\C# PROJECTS\gameproject\gameproject\bin\Debug\EZInput.dll
+C:\C# PROJECTS\gameproject\gameproject\bin\Debug\EZInput.xml
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.csproj.AssemblyReference.cache
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.csproj.CopyComplete
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.exe
+C:\C# PROJECTS\gameproject\gameproject\obj\Debug\gameproject.pdb

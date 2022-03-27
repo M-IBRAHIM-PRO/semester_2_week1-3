@@ -1,0 +1,8 @@
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\obj\Debug\week_1_lab_1(functions).csproj.AssemblyReference.cache
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\obj\Debug\week_1_lab_1(functions).csproj.SuggestedBindingRedirects.cache
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\obj\Debug\week_1_lab_1(functions).csproj.CoreCompileInputs.cache
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\bin\Debug\week_1_lab_1(functions).exe.config
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\bin\Debug\week_1_lab_1(functions).exe
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\bin\Debug\week_1_lab_1(functions).pdb
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\obj\Debug\week_1_lab_1(functions).exe
+C:\C# PROJECTS\week_1_lab_1(functions)\week_1_lab_1(functions)\obj\Debug\week_1_lab_1(functions).pdb
